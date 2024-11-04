@@ -1,0 +1,5 @@
+*.swp
+*~
+/vendor
+/adapter
+.e2e
